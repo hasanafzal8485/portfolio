@@ -32,6 +32,22 @@ export const pinnedRepos = [
         longDescription: `I led a team of 5 in developing and enhancing Piqosity. It's engaged in refining and expanding an integrated Learning Management and Curriculum Delivery Platform. This platform offers specialized test prep for subjects such as Math, English, and exams like ACT, SAT, and ISEE. It boosts student outcomes through a virtual tutor, intuitive lessons, and adaptive practices. My core contributions involved dramatically improving platform speed via code optimization, query refinement, and the rollout of new features. A notable achievement was the crafting of dedicated dashboards for teachers and students.`,
     },
     {
+        id: `kukupost.com`,
+        stack: ['Nextjs', 'Mongodb',],
+        name: `kukupost`,
+        deployedLink: 'http://kukupost.com/',
+        image: '/static/images/kukupost.png',
+        longDescription: `Kukupost is an AI-powered Twitter management tool designed to enhance and automate your Twitter presence. It offers features such as advanced scheduling, AI-generated tweet ideas, auto engagement (including Auto DM), and in-depth analytics. Kukupost aims to help users efficiently grow their Twitter audience, improve engagement, and drive more sales or conversions through data-driven strategies and AI tools. The platform is particularly suited for professionals looking to optimize their Twitter activity and maximize their social media impact.`
+    },
+    {
+        id: `evyai.com`,
+        stack: ['ReactJs', 'Firbase', 'Chrome Extension'],
+        name: `Evyai`,
+        deployedLink: 'https://evyai.com/',
+        image: '/static/images/evyai.png',
+        longDescription: `evyAI is an AI-powered tool designed to enhance LinkedIn engagement and productivity. It offers features like post writing, persona creation, profile optimization, and intelligent commenting, all aimed at improving visibility and networking on LinkedIn. The tool is available as both a Chrome extension and a web app, and it's used by professionals to streamline their LinkedIn activities and build stronger online presences.`
+    },
+    {
         id: `a1covidtesting.co.uk`,
         stack: ['ReactJS', 'NodeJS', 'ExpressJS', 'PostgreSQL'],
         name: `A1CovidTesting`,
