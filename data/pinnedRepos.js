@@ -38,13 +38,5 @@ export const pinnedRepos = [
         deployedLink: 'https://evyai.com/',
         image: '/static/images/evyai.png',
         longDescription: `evyAI is an AI-powered tool designed to enhance LinkedIn engagement and productivity. It offers features like post writing, persona creation, profile optimization, and intelligent commenting, all aimed at improving visibility and networking on LinkedIn. The tool is available as both a Chrome extension and a web app, and it's used by professionals to streamline their LinkedIn activities and build stronger online presences.`
-    },
-    {
-        id: `thekiteprogram.com`,
-        stack: ["MongoDB", "ExpressJS", "NodeJS", "ReactJS"],
-        name: `TheKiteProgram`,
-        deployedLink: 'https://www.thekiteprogram.com/',
-        image: '/static/images/thekiteprogram.png',
-        longDescription: `Leading a team of 3, I spearheaded the development of "TheKiteProgram" from its inception to deployment on EC2. Inspired by Blogger.com but tailored for mobile users, this application enables users to pen down 'kites'—articles for the public to read. While the backend and the admin panel were crafted using Ruby on Rails, the mobile application was developed in Flutter. Users can seamlessly create content, cater to their unique audiences, and gain insights through a detailed admin panel. Additionally, I managed the meticulous task of data migration from the previous database, ensuring no information loss.`,
-    },
+    }
 ];
