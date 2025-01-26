@@ -32,36 +32,12 @@ export const pinnedRepos = [
         longDescription: `I led a team of 5 in developing and enhancing Piqosity. It's engaged in refining and expanding an integrated Learning Management and Curriculum Delivery Platform. This platform offers specialized test prep for subjects such as Math, English, and exams like ACT, SAT, and ISEE. It boosts student outcomes through a virtual tutor, intuitive lessons, and adaptive practices. My core contributions involved dramatically improving platform speed via code optimization, query refinement, and the rollout of new features. A notable achievement was the crafting of dedicated dashboards for teachers and students.`,
     },
     {
-        id: `kukupost.com`,
-        stack: ['Nextjs', 'Mongodb',],
-        name: `kukupost`,
-        deployedLink: 'http://kukupost.com/',
-        image: '/static/images/kukupost.png',
-        longDescription: `Kukupost is an AI-powered Twitter management tool designed to enhance and automate your Twitter presence. It offers features such as advanced scheduling, AI-generated tweet ideas, auto engagement (including Auto DM), and in-depth analytics. Kukupost aims to help users efficiently grow their Twitter audience, improve engagement, and drive more sales or conversions through data-driven strategies and AI tools. The platform is particularly suited for professionals looking to optimize their Twitter activity and maximize their social media impact.`
-    },
-    {
         id: `evyai.com`,
         stack: ['ReactJs', 'Firbase', 'Chrome Extension'],
         name: `Evyai`,
         deployedLink: 'https://evyai.com/',
         image: '/static/images/evyai.png',
         longDescription: `evyAI is an AI-powered tool designed to enhance LinkedIn engagement and productivity. It offers features like post writing, persona creation, profile optimization, and intelligent commenting, all aimed at improving visibility and networking on LinkedIn. The tool is available as both a Chrome extension and a web app, and it's used by professionals to streamline their LinkedIn activities and build stronger online presences.`
-    },
-    {
-        id: `a1covidtesting.co.uk`,
-        stack: ['ReactJS', 'NodeJS', 'ExpressJS', 'PostgreSQL'],
-        name: `A1CovidTesting`,
-        deployedLink: 'https://www.a1covidtesting.co.uk/',
-        image: '/static/images/a1livecovid.png',
-        longDescription: `As a core team member on this UK-focused health-tech platform, I led the transition from WordPress to MERN for efficient COVID-19 test kit sales. Integrated official UK lab APIs for instant results and Stripe for payments. Managed data migration and introduced an admin dashboard for kit/result management. Built on MERN stack.`,
-    },
-    {
-        id: `app.etyme.com`,
-        stack: ['Ruby on Rails', 'PostgreSQL'],
-        name: `Etyme`,
-        deployedLink: 'https://app.etyme.com/',
-        image: '/static/images/etyme.png',
-        longDescription: `Engaged as a key developer for an advanced HR management tool streamlining recruitment processes. Facilitated companies to register and outsource employees with individualized profiles. Spearheaded the intricate chat feature enabling HRs to engage, shortlist, and manage recruitment stages, integrated with real-time online/offline user status via Action Cable and Livestream. Leveraged the Bullet Train template to innovate features and rectify bugs per client specifications.`,
     },
     {
         id: `thekiteprogram.com`,
@@ -71,12 +47,4 @@ export const pinnedRepos = [
         image: '/static/images/thekiteprogram.png',
         longDescription: `Leading a team of 3, I spearheaded the development of "TheKiteProgram" from its inception to deployment on EC2. Inspired by Blogger.com but tailored for mobile users, this application enables users to pen down 'kites'—articles for the public to read. While the backend and the admin panel were crafted using Ruby on Rails, the mobile application was developed in Flutter. Users can seamlessly create content, cater to their unique audiences, and gain insights through a detailed admin panel. Additionally, I managed the meticulous task of data migration from the previous database, ensuring no information loss.`,
     },
-    {
-        id: `thecondocanopy.com`,
-        stack: ['Ruby on Rails', 'PostgreSQL', 'Textract'],
-        name: `CondoCanopy`,
-        deployedLink: 'https://thecondocanopy.com/',
-        image: '/static/images/thecondocanopy.png',
-        longDescription: `Solely developed from scratch, "TheCondoCanopy" caters to enterprise users, offering an advanced document management solution. Users can swiftly upload documents, in varied formats, up to 5GB in size. Harnessing the power of Amazon S3 for storage, the platform ensures rapid upload speeds. Notably, I implemented Textract to accurately extract and structure data from documents. This information, once processed, is then stored in the database. Furthermore, to guarantee instantaneous and seamless document searches, I integrated ElasticSearch, ensuring users can access their data in real time without any delays.`,
-    }
 ];
