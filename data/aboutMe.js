@@ -40,10 +40,10 @@ const info = (props) => [
         result: `[
           "<a style="${style(
             props
-        )}" rel="noopener" href="https://github.com/hasanafzal8485" target="_blank">Github</a>",
+        )}" rel="noopener" href="https://github.com/hasan-devpreneur" target="_blank">Github</a>",
           "<a style="${style(
             props
-        )}" rel="noopener" href="https://www.linkedin.com/in/hasan-afzal-full-stack-developer/" target="_blank">LinkedIn</a>"]`,
+        )}" rel="noopener" href="https://www.linkedin.com/in/hasan-devpreneur/" target="_blank">LinkedIn</a>"]`,
     },
 ];
 

@@ -51,7 +51,7 @@ And voila, you are all set.
 - This project was inspired by [Ahmed Mukhtar](https://github.com/ahmedmukhtar1133/).
 
 ## Contact
-Created by [@hasanafzal8485](https://hasan-afzal.vercel.app/contact) - feel free to contact me!
+Created by [@hasan-devpreneur](https://hasan-afzal.vercel.app/contact) - feel free to contact me!
 
 ## License
 
